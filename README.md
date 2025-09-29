@@ -13,10 +13,6 @@
 
 <br>
 
-<p align="center">
-  <img alt="Demonstração do projeto DevLinks" src=".github/preview.jpg" width="100%">
-</p>
-
 ## 📖 Sobre o Projeto
 
 O DevLinks é um projeto que funciona como um agregador de links, ideal para ser usado como um cartão de visitas online. O desenvolvimento foi guiado pelo curso da Rocketseat, onde pude colocar em prática conceitos fundamentais de desenvolvimento web.
