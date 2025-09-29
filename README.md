@@ -1,47 +1,51 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
+  Meu projeto pessoal do DevLinks, um agregador de links desenvolvido durante o curso gratuito da <strong>Rocketseat</strong>.
 </p>
 
 <p align="center">
+  <a href="#-sobre-o-projeto">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
-
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <a href="#-aprendizados">Aprendizados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-contato">Contato</a>
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="Demonstração do projeto DevLinks" src=".github/preview.jpg" width="100%">
 </p>
+
+## 📖 Sobre o Projeto
+
+O DevLinks é um projeto que funciona como um agregador de links, ideal para ser usado como um cartão de visitas online. O desenvolvimento foi guiado pelo curso da Rocketseat, onde pude colocar em prática conceitos fundamentais de desenvolvimento web.
+
+**Você pode acessar a versão final do meu projeto [clicando aqui](https://bruno-keil.github.io/devlinks/).**
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+As seguintes tecnologias foram utilizadas na construção do projeto:
 
-- HTML e CSS
-- JavaScript
-- Git e Github
-- Figma
+- **HTML5:** Para a estrutura semântica da página.
+- **CSS3:** Para estilização, animações e responsividade, incluindo o uso de variáveis para a troca de temas (dark/light mode).
+- **JavaScript:** Para a manipulação do DOM e a interatividade, como a funcionalidade de troca de tema.
+- **Git e Github:** Para versionamento de código e hospedagem do projeto.
+- **Figma:** Como base para o design e layout do projeto.
 
-## 💻 Projeto
+## ✨ Aprendizados
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+Ao longo deste projeto, reforcei e aprendi diversos conceitos importantes:
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- Estruturação de um projeto web do zero.
+- Uso de HTML semântico para melhor acessibilidade e SEO.
+- Estilização avançada com CSS, incluindo o uso de Flexbox, variáveis CSS e pseudo-classes.
+- Manipulação do DOM com JavaScript para criar funcionalidades interativas, como a troca de tema (light/dark mode).
+- Boas práticas com Git e Github para controle de versão.
 
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
+## 🙏 Agradecimentos
 
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Agradeço à **Rocketseat** e ao instrutor **Mayk Brito** por disponibilizarem um conteúdo de altíssima qualidade de forma gratuita, que foi essencial para o meu desenvolvimento.
 
 ## :memo: Licença
 
@@ -49,4 +53,6 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+## 📬 Contato
+
+Desenvolvido por **[Bruno Keil]** - [Entre em contato!](https://www.linkedin.com/in/brunokeil/)
